@@ -1,4 +1,4 @@
-<h1 align="center">Last Version (2.2.4)</h1>
+<h1 align="center">Pinnacle Studio 24(promo version 2.2.4)</h1>
 <h2 align="center">
 
 </h2>
